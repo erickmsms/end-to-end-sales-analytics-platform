@@ -6,7 +6,8 @@ As imagens presentes neste repositório representam **prints reais do dashboard*
 
 Preview - Página 1
 
-![Página 1 - Dashboard](https://github.com/user-attachments/assets/2fdb9226-e4fa-4810-803b-097eb6f8431c)
+![Página 1 - Dashboard](https://github.com/user-attachments/assets/c63fd5b2-ae52-430e-93b3-39b1f4206818)
+
 
 ---
 
